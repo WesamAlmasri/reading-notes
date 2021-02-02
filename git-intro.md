@@ -1,4 +1,6 @@
-# Git Introduction
+# Introduction to Git
+
+![Git](https://iconape.com/wp-content/png_logo_vector/git-3.png)
 
 The **Git** is a version control is a system that allows you to revisit various versions of a file or set of files by recording changes. It keeps track modifications and modifying individuals, and compare changes, so mistakes with files can easily be rectified.
 
