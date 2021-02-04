@@ -8,4 +8,5 @@ This repository summarizes some topics that I've read about.
 | --- | ----------------------------------- |
 | 1   | [Grouth mindset](grouth-mindsit.md) |
 | 2   | [Markdown](markdown.md)             |
-| 3   | [Introduction to Git](git-intro.md)             |
+| 3   | [Introduction to Git](git-intro.md) |
+| 4   | [Html](html.md)                     |
