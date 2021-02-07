@@ -10,3 +10,4 @@ This repository summarizes some topics that I've read about.
 | 2   | [Markdown](markdown.md)             |
 | 3   | [Introduction to Git](git-intro.md) |
 | 4   | [Html](html.md)                     |
+| 5   | [Javascript](javascript.md)         |
