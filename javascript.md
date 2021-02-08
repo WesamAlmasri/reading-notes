@@ -60,3 +60,5 @@ To call a function just use
 ```javascript
 functionName (params,);
 ```
+
+[Next Page](javascript-page2.md)
