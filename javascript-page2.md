@@ -74,3 +74,5 @@ while(condition){
 ```
 
 In while loop you have to initialize the variable before the while statement and we have to update the variable at the end of while body.
+
+[Next Page](javascript-page3.md)
