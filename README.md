@@ -11,3 +11,4 @@ This repository summarizes some topics that I've read about.
 | 3   | [Introduction to Git](git-intro.md) |
 | 4   | [Html](html.md)                     |
 | 5   | [Javascript](javascript.md)         |
+| 6   | [Css colors](css-colors.md)         |
