@@ -34,12 +34,6 @@ To create a paragraph, surround the words that make up the paragraph with an ope
 <p>This is a paragraph.</p>
 ```
 
-*Result*:
-
-<p>This is a paragraph.</p>
-<p>This is a paragraph.</p>
-<p>This is a paragraph.</p
-
 ### Bold & Italic
 
 By enclosing words in the tags `<b>` and `</b>` we can make characters appear bold.
@@ -50,11 +44,6 @@ By enclosing words in the tags `<i>` and `</i>` we can make characters appear it
 <p>This is how we make a word appear <b>bold.</b></p>
 <p>Captain Cook sailed to Australia on the <i>Endeavour</i>.</p>
 ```
-
-*Result*:
-
-<p>This is how we make a word appear <b>bold.</b></p>
-<p>Captain Cook sailed to Australia on the <i>Endeavour</i>.</p>
 
 ### Superscript & Subscript
 
@@ -69,34 +58,11 @@ about E=MC<sup>2</sup>.</p>
 grew by 2ppm in 2009<sub>1</sub>.</p>
 ```
 
-*Result*:
-
-<p>On the 4<sup>th</sup> of September you will learn
-about E=MC<sup>2</sup>.</p>
-<p>The amount of CO<sub>2</sub> in the atmosphere
-grew by 2ppm in 2009<sub>1</sub>.</p>
-
 ### White Space
 
 In order to make code easier to read, web page authors often add extra spaces or start some elements on new lines.
 
 When the browser comes across two or more spaces next to each other, it only displays one space. Similarly if it comes across a line break, it treats that as a single space too. This is known as **white space collapsing**.
-
-```html
-<p>The moon is drifting away from Earth.</p>
-<p>The moon
-is drifting away from Earth.</p>
-<p>The moon is drifting away from
-			 Earth.</p>
-```
-
-*Result*:
-
-<p>The moon is drifting away from Earth.</p>
-<p>The moon
-is drifting away from Earth.</p>
-<p>The moon is drifting away from
-			 Earth.</p>
 
 ### Linebreak & Horizintal rule
 
@@ -113,16 +79,6 @@ clockwise.</p>
 <p>Jupiter is bigger than all the other planets
 combined.</p>
 ```
-
-*Result*:
-
-<p>The Earth<br />gets one hundred tons heavier
-every day<br />due to falling space dust.</p>
-<p>Venus is the only planet that rotates
-clockwise.</p>
-<hr />
-<p>Jupiter is bigger than all the other planets
-combined.</p>
 
 ### Semantic Markup
 
