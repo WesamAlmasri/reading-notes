@@ -26,9 +26,9 @@ An expression evaluates into (results in) a single value. Broadly speaking there
 
 Expressions rely on things called operators; they allow programmers to create a single value from one or more values.
 
-* ASSIGNMENT OPERATORS: A ssign a value to a variable `color = 'beige';`.
+* ASSIGNMENT OPERATORS: Assign a value to a variable `color = 'beige';`.
 
-* AR ITHMETI C OPERATORS: Perform basic math `area = 3 * 2;`.
+* ARITHMETIC OPERATORS: Perform basic math `area = 3 * 2;`.
 
 * STRING OPERATORS: Combine two strings `greeting= 'Hi ' + 'Mol ly';`.
 

@@ -10,7 +10,7 @@ In all kinds of documents, structure is very important in helping readers to und
 
 HTML describes the structure of a web page and it's a tags language so every tag describe it's content
 
-### HTML describes tHe Structure of Pages
+### HTML describes the Structure of Pages
 
 To describe the structure of a web page, a code is added to the words we want to appear on the page.
 
@@ -34,7 +34,7 @@ To describe the structure of a web page, a code is added to the words we want to
 
 The HTML code (in blue) is made up of characters that live inside angled brackets — these are called HTML elements. Elements are usually made up of two tags: an opening tag and a closing tag. (The closing tag has an extra forward slash in it) and every tag can have one or more attribute. Each HTML element tells the browser something about the information that sits between its opening and closing tags and the attributes provide additional information about the contents of an element.
 
-The atrribute appear on the opening tag of the element and are made up of two parts: a **name** and a **value**, separated by an equals sign.
+The attribute appear on the opening tag of the element and are made up of two parts: a **name** and a **value**, separated by an equals sign.
 
 ```html
 <p lang="en-us">Paragraph in English</p>
@@ -110,7 +110,7 @@ Some elements will always appear to start on a new line in the browser window li
 
 ### Inline Elements
 
-Some elements will always appear to continue on the same line as their neighbouring elements like `<a>`, `<b>`, `<em>`, and `<img>` .
+Some elements will always appear to continue on the same line as their neighboring elements like `<a>`, `<b>`, `<em>`, and `<img>` .
 
 ### Grouping Text & Elements In a Block
 
@@ -215,7 +215,7 @@ Your content and design should be influenced by the goals of your users.
 #### Key Motivations
 
 - Are they looking for general entertainment or do they need to achieve a specific goal?
-- If ther e is a specific goal, is it a personal or professional one?
+- If there is a specific goal, is it a personal or professional one?
 - Do they see spending time on this activity as essential or a luxury?
 
 #### Specific Goals
@@ -302,15 +302,15 @@ Site navigation not only helps people find where they want to go, but also helps
 
 ![javascript image](http://crowdforthink.com/assets/uploads/blogs/d432ce51653c4558fc49e6f6ba3ca0c0.jpg)
 
-The javascript makes web pages more interactive by:
+The JavaScript makes web pages more interactive by:
 
-1. Acess content: You can use JavaScript to select any element, attribute, or tex t from an HTML page.
-2. Modify content: You can use JavaScript to add elements, attributes, and tex t to the page, or remove them.
-3. Programe rules: You can specify a set of steps for the browser to follow (like a recipe), which allows it to access or change the content of a page.
+1. Access content: You can use JavaScript to select any element, attribute, or text from an HTML page.
+2. Modify content: You can use JavaScript to add elements, attributes, and text to the page, or remove them.
+3. Program rules: You can specify a set of steps for the browser to follow (like a recipe), which allows it to access or change the content of a page.
 4. React to events: You can specify that a script should run when a specific event has occurred.
 5. JavaScript can reload the content of page without reload the page itself and filter data.
 
-## The ABC of prgramming
+## The ABC of programming
 
 There is some key concepts in computer programming that is important to be familiar with.
 
