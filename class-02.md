@@ -366,8 +366,8 @@ Expressions rely on things called operators; they allow programmers to create a 
 - ASSIGNMENT OPERATORS: Assign a value to a variable `color = 'beige';`
 - ARITHMETIC OPERATORS: Perform basic math `area = 3 * 2;`
 - STRING OPERATORS: Combine two strings `greeting= 'Hi ' + 'Mol ly';`
-- COMPARISON OPERATORS: Compare two values and return true or fa1se `buy = 3 > 5`
-- LOGICAL OPERATORS: Combine expressions and return true or fa1se `buy = (3 > 5) && (8 <1 0)`
+- COMPARISON OPERATORS: Compare two values and return true or false `buy = 3 > 5`
+- LOGICAL OPERATORS: Combine expressions and return true or false `buy = (3 > 5) && (8 <1 0)`
 
 ## Decisions and Loops
 
