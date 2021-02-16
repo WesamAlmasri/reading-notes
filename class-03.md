@@ -168,7 +168,7 @@ And there are also Limited Height (**min-height, max-height**).
 The overflow property tells the browser what to do if the content contained within a box is larger than the box itself. It can have one of two values:
 
 - **hidden**: This property simply hides any extra content that does not fit in the box
-- **scroll**: This property adds a scrollbar to the box so that users can scroll to see the missing conten
+- **scroll**: This property adds a scrollbar to the box so that users can scroll to see the missing content
 
 
 ### Border and Margin and Padding
