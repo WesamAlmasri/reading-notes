@@ -585,4 +585,3 @@ The submit event occurs when the submit button is clicked. The `onsubmit` event 
 </body>
 </html>
 ```
-
