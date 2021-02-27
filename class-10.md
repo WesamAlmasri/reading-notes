@@ -123,6 +123,7 @@ catch(err) {
   document.getElementById("demo").innerHTML = err.name;
 }
 ```
+
 ## JavaScript Errors - Throw and Try to Catch
 
 The `try` statement lets you test a block of code for errors.
