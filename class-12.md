@@ -1,4 +1,4 @@
-# Docs for the HTML `<canvas>` Element & Chart.js
+# Docs for the HTML Canvas Element & Chart.js
 
 ![canvas image](https://i.ytimg.com/vi/3GqUM4mEYKA/maxresdefault.jpg)
 
