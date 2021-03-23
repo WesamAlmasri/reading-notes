@@ -2,9 +2,9 @@
 
 ![welcom image](welcom.png)
 
-This repository talks about topics from **Code 102** and **Code 201** from Luminus University, so I hope you will enjoy reading this.
+This repository talks about topics from courses that I took from Luminus University, so I hope you will enjoy reading this.
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 ### Table of content
 
@@ -26,7 +26,7 @@ This repository talks about topics from **Code 102** and **Code 201** from Lumin
 | 14  | [Read: 14a - CSS Transforms, Transitions, and Animations](class-14a.md)                   |
 | 15  | [Read: 14b - What Google Learned About Teams](class-14b.md)                               |
 
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 | #   | Title                               |
 | --- | ----------------------------------- |
