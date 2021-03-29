@@ -9,7 +9,8 @@ This repository talks about topics from courses that I took from Luminus Univers
 | #   | Title                                                                 |
 | --- | --------------------------------------------------------------------- |
 | 1   | [Read: 01 - SMACSS and Responsive Web Design](./code-301/class-01.md) |
-| 2   | [Read: 01 - jQuery, Events, and The DOM](./code-301/class-02.md)      |
+| 2   | [Read: 02 - jQuery, Events, and The DOM](./code-301/class-02.md)      |
+| 3   | [Read: 03 - MUSTACHE and FLEXBOX](./code-301/class-03.md)             |
 
 ## Code 201 - Foundations of Software Development
 
