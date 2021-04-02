@@ -13,6 +13,7 @@ This repository talks about topics from courses that I took from Luminus Univers
 | 3   | [Read: 03 - MUSTACHE and FLEXBOX](./code-301/class-03.md)                          |
 | 4   | [Read: 04 - Responsive Web Design and Regular Expressions](./code-301/class-04.md) |
 | 5   | [Read: 05 - Heroku Deployment](./code-301/class-05.md)                             |
+| 6   | [Read: 06 - Node, Express, and APIs](./code-301/class-06.md)                       |
 
 ## Code 201 - Foundations of Software Development
 
