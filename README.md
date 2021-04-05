@@ -14,7 +14,8 @@ This repository talks about topics from courses that I took from Luminus Univers
 | 4   | [Read: 04 - Responsive Web Design and Regular Expressions](./code-301/class-04.md) |
 | 5   | [Read: 05 - Heroku Deployment](./code-301/class-05.md)                             |
 | 6   | [Read: 06 - Node, Express, and APIs](./code-301/class-06.md)                       |
-| 6   | [Read: 07 - APIs](./code-301/class-07.md)                                          |
+| 7   | [Read: 07 - APIs continued](./code-301/class-07.md)                                          |
+| 8   | [Read: 08 - SQL](./code-301/class-08.md)                                          |
 
 ## Code 201 - Foundations of Software Development
 
