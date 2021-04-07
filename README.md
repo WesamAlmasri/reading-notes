@@ -16,7 +16,8 @@ This repository talks about topics from courses that I took from Luminus Univers
 | 6   | [Read: 06 - Node, Express, and APIs](./code-301/class-06.md)                       |
 | 7   | [Read: 07 - APIs continued](./code-301/class-07.md)                                |
 | 8   | [Read: 08 - SQL](./code-301/class-08.md)                                           |
-| 8   | [Read: 09 - Refactoring](./code-301/class-09.md)                                   |
+| 9   | [Read: 09 - Refactoring](./code-301/class-09.md)                                   |
+| 10  | [Read: 10 - The Call Stack and Debugging](./code-301/class-10.md)                  |
 
 ## Code 201 - Foundations of Software Development
 
