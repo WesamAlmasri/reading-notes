@@ -19,7 +19,8 @@ This repository talks about topics from courses that I took from Luminus Univers
 | 9   | [Read: 09 - Refactoring](./code-301/class-09.md)                                   |
 | 10  | [Read: 10 - The Call Stack and Debugging](./code-301/class-10.md)                  |
 | 11  | [Read: 11 - EJS](./code-301/class-11.md)                                           |
-| 11  | [Read: 12 - Components](./code-301/class-12.md)                                    |
+| 12  | [Read: 12 - Components](./code-301/class-12.md)                                    |
+| 13  | [Read: 13 - Update/Delete](./code-301/class-13.md)                                 |
 
 ## Code 201 - Foundations of Software Development
 
