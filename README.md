@@ -21,7 +21,8 @@ This repository talks about topics from courses that I took from Luminus Univers
 | 11  | [Read: 11 - EJS](./code-301/class-11.md)                                           |
 | 12  | [Read: 12 - Components](./code-301/class-12.md)                                    |
 | 13  | [Read: 13 - Update/Delete](./code-301/class-13.md)                                 |
-| 13  | [Read: 14 - DB Normalization](./code-301/class-14.md)                              |
+| 14  | [Read: 14 - DB Normalization](./code-301/class-14.md)                              |
+| 15  | [Read: 14 - Diversity and Inclusion](./code-301/class-15.md)                       |
 
 ## Code 201 - Foundations of Software Development
 
