@@ -6,9 +6,9 @@ This repository talks about topics from courses that I took from Luminus Univers
 
 ## Code 401 - Advanced Software Development
 
-| #   | Title                              |
-| --- | ---------------------------------- |
-| 1   | [Read: 01](./code-401/class-01.md) |
+| #   | Title                                                      |
+| --- | ---------------------------------------------------------- |
+| 1   | [Prep: Readings ... Get Ready for 401](./code-401/prep.md) |
 
 ## Code 301 - Intermediate Software Developmentt
 
