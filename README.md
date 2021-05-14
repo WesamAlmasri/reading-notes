@@ -8,7 +8,8 @@ This repository talks about topics from courses that I took from Luminus Univers
 
 | #   | Title                                                      |
 | --- | ---------------------------------------------------------- |
-| 1   | [Prep: Readings ... Get Ready for 401](./code-401/prep.md) |
+| .   | [Prep: Readings ... Get Ready for 401](./code-401/prep.md) |
+| 1   | [Node Ecosystem, TDD, CI/CD](./code-401/class-01.md)       |
 
 ## Code 301 - Intermediate Software Developmentt
 
