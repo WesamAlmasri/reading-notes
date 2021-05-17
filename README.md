@@ -10,7 +10,8 @@ This repository talks about topics from courses that I took from Luminus Univers
 | --- | -------------------------------------------------------------- |
 | .   | [Prep: Readings ... Get Ready for 401](./code-401/prep.md)     |
 | 1   | [Class 01: Node Ecosystem, TDD, CI/CD](./code-401/class-01.md) |
-| 2   | [Class 02 Express](./code-401/class-02.md)                     |
+| 2   | [Class 02: Express](./code-401/class-02.md)                    |
+| 3   | [Class 03: Express REST API](./code-401/class-03.md)           |
 
 ## Code 301 - Intermediate Software Developmentt
 
