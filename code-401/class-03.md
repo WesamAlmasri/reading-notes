@@ -26,7 +26,7 @@ By one of these methods
 
 ### The request lifecycle can be “injected” middleware at any point before any route handler.
 
-### Express could raise an error with “Request headers sent twice, cannot start a second response” if the we're already in the Body or Finished state, but some function tried to set a header or statusCode.
+### Express could raise an error with “Request headers sent twice, cannot start a second response” if the we're already in the Body or Finished state, but some function tried to set a header or statusCode
 
 ## Terms
 
