@@ -14,6 +14,7 @@ This repository talks about topics from courses that I took from Luminus Univers
 | 3   | [Class 03: Express REST API](./code-401/class-03.md)           |
 | 4   | [Class 04: Data Modeling](./code-401/class-04.md)              |
 | 5   | [Class 05: Linked Lists](./code-401/class-05.md)               |
+| 6   | [Class 06: Authentication](./code-401/class-06.md)             |
 
 ## Code 301 - Intermediate Software Developmentt
 
