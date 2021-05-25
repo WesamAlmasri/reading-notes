@@ -17,6 +17,7 @@ This repository talks about topics from courses that I took from Luminus Univers
 | 6   | [Class 06: Authentication](./code-401/class-06.md)             |
 | 7   | [Class 07: Bearer Authorization](./code-401/class-07.md)       |
 | 8   | [Class 08: Access Control (ACL)](./code-401/class-08.md)       |
+| 9   | [Class 09: OAuth](./code-401/class-09.md)                      |
 
 ## Code 301 - Intermediate Software Developmentt
 
