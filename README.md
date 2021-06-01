@@ -22,6 +22,7 @@ This repository talks about topics from courses that I took from Luminus Univers
 | 11  | [Class 11: Event Driven Applications](./code-401/class-11.md)  |
 | 12  | [Class 12: Socket.io](./code-401/class-12.md)                  |
 | 13  | [Class 13: Message Queues](./code-401/class-13.md)             |
+| 13  | [Class 14: Event Driven Architecture](./code-401/class-14.md)  |
 
 ## Code 301 - Intermediate Software Developmentt
 
