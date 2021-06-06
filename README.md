@@ -25,6 +25,7 @@ This repository talks about topics from courses that I took from Luminus Univers
 | 14  | [Class 14: Event Driven Architecture](./code-401/class-14.md)  |
 | 15  | [Class 15: Trees](./code-401/class-15.md)                      |
 | 16  | [Class 16: AWS: Cloud Servers](./code-401/class-16.md)         |
+| 17  | [Class 17: AWS: S3 and Lambda](./code-401/class-17.md)         |
 
 ## Code 301 - Intermediate Software Developmentt
 
