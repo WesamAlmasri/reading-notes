@@ -6,26 +6,27 @@ This repository talks about topics from courses that I took from Luminus Univers
 
 ## Code 401 - Advanced Software Development
 
-| #   | Title                                                          |
-| --- | -------------------------------------------------------------- |
-| .   | [Prep: Readings ... Get Ready for 401](./code-401/prep.md)     |
-| 1   | [Class 01: Node Ecosystem, TDD, CI/CD](./code-401/class-01.md) |
-| 2   | [Class 02: Express](./code-401/class-02.md)                    |
-| 3   | [Class 03: Express REST API](./code-401/class-03.md)           |
-| 4   | [Class 04: Data Modeling](./code-401/class-04.md)              |
-| 5   | [Class 05: Linked Lists](./code-401/class-05.md)               |
-| 6   | [Class 06: Authentication](./code-401/class-06.md)             |
-| 7   | [Class 07: Bearer Authorization](./code-401/class-07.md)       |
-| 8   | [Class 08: Access Control (ACL)](./code-401/class-08.md)       |
-| 9   | [Class 09: OAuth](./code-401/class-09.md)                      |
-| 10  | [Class 10: Stacks & Queues](./code-401/class-10.md)            |
-| 11  | [Class 11: Event Driven Applications](./code-401/class-11.md)  |
-| 12  | [Class 12: Socket.io](./code-401/class-12.md)                  |
-| 13  | [Class 13: Message Queues](./code-401/class-13.md)             |
-| 14  | [Class 14: Event Driven Architecture](./code-401/class-14.md)  |
-| 15  | [Class 15: Trees](./code-401/class-15.md)                      |
-| 16  | [Class 16: AWS: Cloud Servers](./code-401/class-16.md)         |
-| 17  | [Class 17: AWS: S3 and Lambda](./code-401/class-17.md)         |
+| #   | Title                                                           |
+| --- | --------------------------------------------------------------- |
+| .   | [Prep: Readings ... Get Ready for 401](./code-401/prep.md)      |
+| 1   | [Class 01: Node Ecosystem, TDD, CI/CD](./code-401/class-01.md)  |
+| 2   | [Class 02: Express](./code-401/class-02.md)                     |
+| 3   | [Class 03: Express REST API](./code-401/class-03.md)            |
+| 4   | [Class 04: Data Modeling](./code-401/class-04.md)               |
+| 5   | [Class 05: Linked Lists](./code-401/class-05.md)                |
+| 6   | [Class 06: Authentication](./code-401/class-06.md)              |
+| 7   | [Class 07: Bearer Authorization](./code-401/class-07.md)        |
+| 8   | [Class 08: Access Control (ACL)](./code-401/class-08.md)        |
+| 9   | [Class 09: OAuth](./code-401/class-09.md)                       |
+| 10  | [Class 10: Stacks & Queues](./code-401/class-10.md)             |
+| 11  | [Class 11: Event Driven Applications](./code-401/class-11.md)   |
+| 12  | [Class 12: Socket.io](./code-401/class-12.md)                   |
+| 13  | [Class 13: Message Queues](./code-401/class-13.md)              |
+| 14  | [Class 14: Event Driven Architecture](./code-401/class-14.md)   |
+| 15  | [Class 15: Trees](./code-401/class-15.md)                       |
+| 16  | [Class 16: AWS: Cloud Servers](./code-401/class-16.md)          |
+| 17  | [Class 17: AWS: S3 and Lambda](./code-401/class-17.md)          |
+| 18  | [Class 18: AWS: API, Dynamo and Lambda](./code-401/class-18.md) |
 
 ## Code 301 - Intermediate Software Developmentt
 
