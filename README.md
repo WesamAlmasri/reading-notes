@@ -28,6 +28,7 @@ This repository talks about topics from courses that I took from Luminus Univers
 | 17  | [Class 17: AWS: S3 and Lambda](./code-401/class-17.md)          |
 | 18  | [Class 18: AWS: API, Dynamo and Lambda](./code-401/class-18.md) |
 | 19  | [Class 19: AWS: Events](./code-401/class-19.md)                 |
+| 20  | [Class 26: Component Based UI](./code-401/class-26.md)          |
 
 ## Code 301 - Intermediate Software Developmentt
 
