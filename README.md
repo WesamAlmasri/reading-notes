@@ -32,8 +32,9 @@ This repository talks about topics from courses that I took from Luminus Univers
 | 21  | [Class 27: Props and State](./code-401/class-27.md)             |
 | 22  | [Class 28: Component Composition](./code-401/class-28.md)       |
 | 23  | [Class 29: Routing](./code-401/class-29.md)                     |
+| 24  | [Class 30: Hash Tables](./code-401/class-30.md)                 |
 
-## Code 301 - Intermediate Software Developmentt
+## Code 301 - Intermediate Software Development
 
 | #   | Title                                                                              |
 | --- | ---------------------------------------------------------------------------------- |
