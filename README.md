@@ -33,6 +33,7 @@ This repository talks about topics from courses that I took from Luminus Univers
 | 22  | [Class 28: Component Composition](./code-401/class-28.md)       |
 | 23  | [Class 29: Routing](./code-401/class-29.md)                     |
 | 24  | [Class 30: Hash Tables](./code-401/class-30.md)                 |
+| 25  | [Class 31: Hooks API](./code-401/class-31.md)                   |
 
 ## Code 301 - Intermediate Software Development
 
