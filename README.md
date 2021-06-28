@@ -35,6 +35,7 @@ This repository talks about topics from courses that I took from Luminus Univers
 | 24  | [Class 30: Hash Tables](./code-401/class-30.md)                 |
 | 25  | [Class 31: Hooks API](./code-401/class-31.md)                   |
 | 26  | [Class 32: Custom Hooks](./code-401/class-32.md)                |
+| 27  | [Class 33: Context API](./code-401/class-33.md)                 |
 
 ## Code 301 - Intermediate Software Development
 
