@@ -37,6 +37,7 @@ This repository talks about topics from courses that I took from Luminus Univers
 | 26  | [Class 32: Custom Hooks](./code-401/class-32.md)                |
 | 27  | [Class 33: Context API](./code-401/class-33.md)                 |
 | 28  | [Class 34: `<Login />` and `<Auth />`](./code-401/class-34.md)  |
+| 29  | [Class 35: Graphs](./code-401/class-35.md)                      |
 
 ## Code 301 - Intermediate Software Development
 
