@@ -39,6 +39,7 @@ This repository talks about topics from courses that I took from Luminus Univers
 | 28  | [Class 34: `<Login />` and `<Auth />`](./code-401/class-34.md)   |
 | 29  | [Class 35: Graphs](./code-401/class-35.md)                       |
 | 30  | [Class 36: Application State with Redux](./code-401/class-36.md) |
+| 31  | [Class 37: Redux - Combined Reducers](./code-401/class-37.md)    |
 
 ## Code 301 - Intermediate Software Development
 
