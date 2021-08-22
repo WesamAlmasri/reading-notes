@@ -91,9 +91,9 @@ This repository talks about topics from courses that I took from Luminus Univers
 
 | #   | Title                                          |
 | --- | ---------------------------------------------- |
-| 1   | [Grouth mindset](./code-102/grouth-mindsit.md) |
-| 2   | [Markdown](./code-102/markdown.md)             |
-| 3   | [Introduction to Git](./code-102/git-intro.md) |
-| 4   | [Html](./code-102/html.md)                     |
-| 5   | [Javascript](./code-102/javascript.md)         |
-| 6   | [Css colors](./code-102/css-colors.md)         |
+| 1   | [Read: 01 - Grouth mindset](./code-102/grouth-mindsit.md) |
+| 2   | [Read: 02 - Markdown](./code-102/markdown.md)             |
+| 3   | [Read: 03 - Introduction to Git](./code-102/git-intro.md) |
+| 4   | [Read: 04 - Html](./code-102/html.md)                     |
+| 5   | [Read: 05 - Javascript](./code-102/javascript.md)         |
+| 6   | [Read: 06 - Css colors](./code-102/css-colors.md)         |
